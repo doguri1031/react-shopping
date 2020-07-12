@@ -6,7 +6,7 @@
 
 1. dev.js file を config フォルダーに作成
 2. mongoDB 情報を dev.js file に入れる
-3. npm install を root directory に入力. (サーバー側)
+3. npm install を root directory に入力 (サーバー側)
 4. npm install を client directory に入力 (クライアント側)
    <br />
 
